@@ -1,4 +1,4 @@
-# e_api_neworder_sell_genbutsu_tel.py
+# e_api_neworder_sell_genbutsu_pubkey.py
 現物売り注文　公開鍵認証
 
 ご注意！！ ================================
